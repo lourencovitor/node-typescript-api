@@ -1,0 +1,8 @@
+{
+  "name": "node-typescript-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lourencovitor/node-typescript-api.git",
+  "author": "Vitor Lourenço <vitor.brother17@outlook.com.br>",
+  "license": "MIT"
+}
